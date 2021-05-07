@@ -62,7 +62,7 @@ Se você ainda não viu os vídeos de preparação da SDS 3.0, corre lá que ain
 [![Image](https://img.youtube.com/vi/KLG-jC1fh28/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/KLG-jC1fh28)
 
 
-# Episódio 1 --------------------------------------------------------------------------------
+# Episódio 1 --------------------------------------------------------------
 
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - Episódio 1
 > Evento gratuito - 3 a 9 de maio/2021
@@ -302,7 +302,7 @@ const options = {
   - Divulgue seu projeto no Linkedin e marque a DevSuperior
 
 
-# Episódio 2 --------------------------------------------------------------------------------
+# Episódio 2 --------------------------------------------------------------
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - Episódio 2
 > Evento gratuito - 3 a 9 de maio/2021
 > 
@@ -670,3 +670,6 @@ git subtree push --prefix backend heroku main
 - Participe
   - Comente na página da Semana Spring React
   - Divulgue seu projeto no Linkedin e marque a DevSuperior
+ 
+ 
+ # Episódio 3 --------------------------------------------------------------
